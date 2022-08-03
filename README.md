@@ -12,10 +12,18 @@ I want to make my robot turn to the point on the field by using odometry. This w
  
  
   1st source
+  
+  
+  
+  
+  
+  
+  
+  
   ![image](https://user-images.githubusercontent.com/105900658/182445820-b5db2e11-1dd5-425d-8f11-653b65a7e966.png)
   
-  formulas: left   = current angle - desire angle
-            right  = desire angle - current angle
+      formulas: left   = current angle - desire angle
+                right  = desire angle - current angle
            
            
  Only from one of formulas, there come the positive number. The robot will from which the positive number come.
@@ -31,6 +39,14 @@ I want to make my robot turn to the point on the field by using odometry. This w
      
      
   2nd sorce
+  
+  
+  
+  
+  
+  
+  
+  
   ![image](https://user-images.githubusercontent.com/105900658/182685630-6d93ab2e-289a-44be-a426-db45ed1e8bc6.png)
   
     formulas: alpha = current angle - desire angle
