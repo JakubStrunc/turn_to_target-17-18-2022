@@ -1,4 +1,4 @@
-# turn_to_target-17-18-2022
+# turn_to_target-17-18-July-2022
 
 I want to make my robot turn to the point on the field by using odometry. This will be use in future as the part for the autoaim or get the robot position.
   For this I need:
