@@ -53,6 +53,8 @@ I want to make my robot turn to the point on the field by using odometry. This w
               gama  = current angle - desire angle - 360
             
  the closest result in absulute value will be the distance of the shortest turn. If the result is negative the shortest way is turning to the left side. And if the result is posite the shortest way is turning right.
+ 
+ video:https://youtube.com/shorts/awChxu5MPMk?feature=share
      
      
   
